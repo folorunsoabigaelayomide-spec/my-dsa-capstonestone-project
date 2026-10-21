@@ -1,4 +1,4 @@
-const BOOKINGS = 200000;
+const BOOKINGS = 100000;
 const LOOKUPS = 500;
 
 const list = [];
